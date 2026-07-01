@@ -1,5 +1,5 @@
 Este programa solicita ao usuário a largura e o comprimento de um terreno, calcula sua área e 
-exibeo resultado na tela.
+exibe o resultado na tela.
 
 ⚙️ Funcionalidades:
 
