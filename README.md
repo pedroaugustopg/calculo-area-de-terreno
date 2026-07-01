@@ -3,9 +3,9 @@ exibeo resultado na tela.
 
 ⚙️ Funcionalidades:
 
--Leitura dos valores informados pelo usuário
--Cálculo da área por meio de um método
--Exibição do resultado de forma clara e formatada
+- Leitura dos valores informados pelo usuário
+- Cálculo da área por meio de um método
+- Exibição do resultado de forma clara e formatada
 
 🎯 Objetivos de aprendizagem:
 
