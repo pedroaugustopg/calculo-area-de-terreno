@@ -16,9 +16,4 @@ public class Main {
         System.out.print("O terreno com " + comp + " m de comprimento e " + larg +
                 " m de largura, possui uma área de " + area + " m².");
     }
-
-
-
-
-
 }
