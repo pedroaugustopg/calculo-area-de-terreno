@@ -7,8 +7,4 @@ public class ControleTerrenos {
     {
         return comp * larg;
     }
-
 }
-
-
-
